@@ -4,7 +4,7 @@ Welcome to my Python Projects repository! This collection features a variety of 
 
 Here’s a brief overview of each project. Feel free to explore each one!
 
-#Project 3: Web_scraping_project.ipynb Project 1: BMI Calculator
+# Project 1: BMI Calculator 
 
 Description:
 The BMI Calculator program calculates the Body Mass Index (BMI) based on a user's weight and height. It takes inputs such as the user's name, weight (in kilograms), and height (in centimeters). After processing the inputs, the program computes the BMI using the formula:
