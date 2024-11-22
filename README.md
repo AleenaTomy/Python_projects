@@ -4,9 +4,16 @@ Welcome to my Python Projects repository! This collection features a variety of 
 
 Here’s a brief overview of each project. Feel free to explore each one!
 
-Project 1: BMI Folder
+Project 1: BMI Calculator
 
-Description: Give the BMI when provided with the weight and height. The program take name, weight, and height as the input from the user. Then after calculation it will provide the BMI and the which scale the weight is.
+Description:
+The BMI Calculator program calculates the Body Mass Index (BMI) based on a user's weight and height. It takes inputs such as the user's name, weight (in kilograms), and height (in centimeters). After processing the inputs, the program computes the BMI using the formula:
+
+BMI = weight (kg) / [height (m)]²
+
+Once the BMI is calculated, the program evaluates the result against standard BMI categories (e.g., Underweight, Normal weight, Overweight, Obese) and provides the user with their BMI score along with an interpretation of their weight status.
+
+This tool is simple yet effective for personal health tracking, helping users quickly understand their weight status and encouraging informed decisions about their fitness and lifestyle. Whether for casual use or as part of a health monitoring routine, this program is a handy resource for anyone interested in their well-being.
 
 Project 2: Folder Sorter
 
