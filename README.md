@@ -15,7 +15,7 @@ Description: The folder sorter program sort the files according to the type of t
 
 Project: Web Scraping Project
 
-Description:
+/B Description:/B
 This project focuses on extracting and organizing data from websites using Python. The program sends HTTP requests to retrieve webpage content, parses HTML structures using BeautifulSoup, and extracts relevant information such as text, links, or other specific elements. The extracted data is then cleaned and formatted into structured formats like CSV or Excel using pandas for further analysis.
 
 The program includes features like error handling to manage connection issues or missing elements and introduces delays to ensure ethical web scraping. This project is ideal for tasks like data collection, research, or automating repetitive online data-gathering processes.
