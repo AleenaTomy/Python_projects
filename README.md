@@ -10,10 +10,13 @@ Description: Give the BMI when provided with the weight and height. The program 
 
 Project 2: Folder Sorter
 
-Description: The folder sorter program sort the files according to the type of the file and create the rescpective folder and move the file in to that folder. It can be used in a daily basis to sort the folder and make things easily accessible.
+Description:
+The Folder Sorter program is designed to automatically organize files within a directory based on their file types. When executed, the program identifies files, categorizes them according to their extensions (e.g., .pdf, .jpg, .docx), and creates corresponding folders for each file type. It then moves the files into their respective folders, resulting in a neatly organized directory structure.
+
+This tool is especially useful for managing cluttered folders with mixed file types. By running the program regularly, users can maintain a tidy workspace, improve accessibility, and save time searching for files. The Folder Sorter is a practical solution for personal, academic, or professional file management needs.
 
 
-Project: Web Scraping Project
+Project 3: Web Scraping Project
 
 Description:
 This project focuses on extracting and organizing data from websites using Python. The program sends HTTP requests to retrieve webpage content, parses HTML structures using BeautifulSoup, and extracts relevant information such as text, links, or other specific elements. The extracted data is then cleaned and formatted into structured formats like CSV or Excel using pandas for further analysis.
