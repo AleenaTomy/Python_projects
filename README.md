@@ -9,7 +9,7 @@ Project 1: BMI Calculator
 Description:
 The BMI Calculator program calculates the Body Mass Index (BMI) based on a user's weight and height. It takes inputs such as the user's name, weight (in kilograms), and height (in centimeters). After processing the inputs, the program computes the BMI using the formula:
 
-BMI = weight (kg) / [height (m)]²
+BMI = ((weight / height) / height) * 10000
 
 Once the BMI is calculated, the program evaluates the result against standard BMI categories (e.g., Underweight, Normal weight, Overweight, Obese) and provides the user with their BMI score along with an interpretation of their weight status.
 
